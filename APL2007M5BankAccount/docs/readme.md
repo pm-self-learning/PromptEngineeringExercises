@@ -36,7 +36,7 @@ Code quality refers to the readability, maintainability, and modularity of the c
 ## Next steps
 
 - Go through the [`project_overview.md`](../docs/project_overivew.md) file for a better understanding of the project.
-- Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercises.
+- Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercise.
 
 ## Best Practices
 - Always review suggestions provided by GitHub Copilot.

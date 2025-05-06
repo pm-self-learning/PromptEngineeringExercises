@@ -1,7 +1,7 @@
-# BankAccount Application
+# BankAccount Reliability Application
 
 ## Overview
-The BankAccount application is a simple C# program that models a bank account. It provides functionalities to manage account details, perform transactions, and calculate interest. This project is used to run prompts using GitHub Copilot and contains examples for prompt engineering.
+The BankAccount Reliability application is a C# program that models a bank account with a focus on reliability. It provides functionalities to manage account details, perform transactions, and calculate interest. This project is used to demonstrate reliability-focused prompt engineering examples.
 
 ## Features
 - **Account Management**: Create a bank account with details such as account number, holder name, type, and opening date.
@@ -24,9 +24,9 @@ The `BankAccount` class represents a bank account and provides the following met
 - `CalculateInterest(double interestRate)`: Calculates interest based on the current balance and the provided interest rate.
 
 ## Usage
-1. Clone the repository.
-2. Navigate to the `APL2007M5BankAccount` project directory.
-3. Build and run the project using your preferred C# compiler or IDE.
+1. Navigate to the `APL2007M5BankAccount-Reliability` project directory.
+2. Build and run the project using your preferred C# compiler or IDE.
+   
 
 ## Testing
 Unit tests for the `BankAccount` class are located in the `BankAccount.UnitTests` project. To run the tests:

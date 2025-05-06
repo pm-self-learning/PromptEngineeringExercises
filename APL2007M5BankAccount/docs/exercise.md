@@ -86,7 +86,3 @@ Before starting this exercise, ensure you have the following tools and resources
 
 ## Next Steps
 After completing this exercise, explore the next modules to learn about improving code reliability, performance, and security using GitHub Copilot Chat.
-
-
-- "How can I improve the readability of the `GenerateRandomBalance`, `GenerateRandomAccountHolder`, `GenerateRandomAccountType`, and `GenerateRandomDateOpened` methods?"
-   - "How can I improve the modularity of the `GenerateRandomAccount` methods?"
