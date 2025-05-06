@@ -33,12 +33,12 @@ Code quality refers to the readability, maintainability, and modularity of the c
   - "How can I refactor the selected code to improve modularity?"
   - "What are some options for simplifying the selected code?"
 
-## Next steps
-
-- Go through the [`project_overview.md`](../docs/project_overivew.md) file for a better understanding of the project.
-- Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercise.
-
 ## Best Practices
 - Always review suggestions provided by GitHub Copilot.
 - Use your judgment to evaluate and implement changes.
 - Conduct thorough code reviews and testing after applying updates.
+
+## Next steps
+
+- Go through the [`project_overview.md`](../docs/project_overivew.md) file for a better understanding of the project.
+- Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercise.

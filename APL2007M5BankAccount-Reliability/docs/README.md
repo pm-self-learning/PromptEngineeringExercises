@@ -62,10 +62,6 @@ Reliability and performance are critical aspects of software quality. This proje
   - "What are some best practices for input validation?"
   - "How can I improve the performance of the selected code?"
 
-## Next Steps
-
-- Go through the [`project_overview.md`](../docs/project_overivew.md) file for a better understanding of the project.
-- Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercise.
 
 ## Best Practices
 - Always validate inputs before processing.
@@ -73,3 +69,8 @@ Reliability and performance are critical aspects of software quality. This proje
 - Conduct thorough testing to identify and fix potential issues.
 - Optimize algorithms and minimize I/O operations for better performance.
 - Continuously monitor and refactor code to improve reliability and performance.
+
+## Next Steps
+
+- Go through the [`project_overview.md`](../docs/project_overivew.md) file for a better understanding of the project.
+- Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercise.

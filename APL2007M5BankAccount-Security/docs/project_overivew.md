@@ -1,7 +1,7 @@
-# BankAccount Application
+# BankAccount Security Application
 
 ## Overview
-The BankAccount application is a simple C# program that models a bank account. It provides functionalities to manage account details, perform transactions, and calculate interest. This project is used to run prompts using GitHub Copilot and contains examples for prompt engineering.
+The BankAccount Security application is a C# program that models a bank account with a focus on security. It provides functionalities to manage account details, perform transactions, and calculate interest while adhering to security best practices. This project is used to demonstrate security-focused prompt engineering examples.
 
 ## Features
 - **Account Management**: Create a bank account with details such as account number, holder name, type, and opening date.
@@ -12,6 +12,13 @@ The BankAccount application is a simple C# program that models a bank account. I
 - **Balance Inquiry**: Check the current balance of the account.
 - **Interest Calculation**: Calculate interest based on a given rate.
 - **Statement Printing**: Print account details and recent transactions.
+
+## Security Enhancements
+- **Authentication and Authorization**: Implement robust mechanisms to protect against unauthorized access.
+- **Data Protection**: Encrypt sensitive data both at rest and in transit.
+- **Error Handling**: Securely handle exceptions to avoid exposing sensitive information.
+- **Dependency Management**: Ensure third-party libraries are up-to-date and free from vulnerabilities.
+- **Security Testing**: Conduct thorough security testing to identify and mitigate vulnerabilities.
 
 ## Classes
 ### `BankAccount`
@@ -24,15 +31,14 @@ The `BankAccount` class represents a bank account and provides the following met
 - `CalculateInterest(double interestRate)`: Calculates interest based on the current balance and the provided interest rate.
 
 ## Usage
-1. Clone the repository.
-2. Navigate to the `APL2007M5BankAccount` project directory.
-3. Build and run the project using your preferred C# compiler or IDE.
+1. Navigate to the `APL2007M5BankAccount-Security` project directory.
+2. Build and run the project using your preferred C# compiler or IDE.
 
 ## Testing
 Unit tests for the `BankAccount` class are located in the `BankAccount.UnitTests` project. To run the tests:
 1. Navigate to the `BankAccount.UnitTests` directory.
 2. Build and run the tests using your preferred C# testing framework.
 
-## Next steps
+## Next Steps
 
 - Refer to the [`exercise.md`](../docs/exercise.md) file for hands-on exercise.

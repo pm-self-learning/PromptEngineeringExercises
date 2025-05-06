@@ -84,5 +84,3 @@ Before starting this exercise, ensure you have the following tools and resources
 - Consider your workplace's coding standards and policies when choosing which updates to implement.
 - Ensure thorough code reviews and testing to maintain high-quality code.
 
-## Next Steps
-After completing this exercise, explore the next modules to learn about improving code reliability, performance, and security using GitHub Copilot Chat.
