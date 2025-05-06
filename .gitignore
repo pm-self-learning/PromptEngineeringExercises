@@ -1,0 +1,68 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore build output directories
+bin/
+obj/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Ignore Rider and JetBrains IDE files
+.idea/
+*.sln.iml
+
+# Ignore logs, debug files, and crash reports
+*.log
+*.tlog
+*.dmp
+
+# Ignore compiled files
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.lib
+*.obj
+*.o
+*.so
+*.idb
+
+# Ignore coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Ignore generated files
+*.g.*
+*.generated.cs
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Ignore test results
+TestResults/
+*.trx
+*.testlog
+
+# Ignore specific project folders
+APL2007M5BankAccount/bin/
+APL2007M5BankAccount/obj/
+APL2007M5BankAccount-Reliability/bin/
+APL2007M5BankAccount-Reliability/obj/
+APL2007M5BankAccount-Security/bin/
+APL2007M5BankAccount-Security/obj/
