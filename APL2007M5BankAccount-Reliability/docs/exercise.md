@@ -34,7 +34,7 @@ Before starting this exercise, ensure you have the following tools and resources
 
 ### 3. Use GitHub Copilot Chat to Generate Suggestions
 1. Open the Chat view in `Ask` mode in Visual Studio Code.
-2. Attach the `BankAccount.cs` file to the Chat context.
+2. Check that the the `BankAccount.cs` file is attached to the Chat context, if it is not then ensure you have it selected in the editor.
 3. Use the following prompt to generate suggestions:
    - "`@workspace` How can I improve exception handling for the `Credit`, `Debit`, and `Transfer` methods?"
 
@@ -47,16 +47,21 @@ Before starting this exercise, ensure you have the following tools and resources
     
 ### 6. Iterate and Refine
 1. Open the Chat view in `Ask` mode in Visual Studio Code.
-2. Attach the `BankAccount.cs` file to the Chat context.
+2. Check that the the `BankAccount.cs` file is attached to the Chat context, if it is not then ensure you have it selected in the editor.
 3. Use the following prompt to generate suggestions:
    - "`@workspace` How can I improve unit test support for the `BankAccount` class?"
 12. Test the updated code to ensure no errors were introduced.
+    - In the terminal in Visual Studio Code and run the following command:
+      ```bash
+      cd ../BankAccount.UnitTests
+      dotnet test
+      ```
 13. Verify that the application behaves as expected.
 
 
 ### 6. Improve test support
 1. Open the Chat view in `Ask` mode in Visual Studio Code.
-2. Attach the `BankAccountTests.cs` file to the Chat context.
+2. Check that the the `BankAccountTests.cs`  file is attached to the Chat context, if it is not then ensure you have it selected in the editor.
 3. Use the following prompt to generate suggestions:
    - "`@workspace` How can I improve unit test support for the class?"
 4. Implement updates that enhance test coverage, such as:
@@ -84,4 +89,6 @@ Before starting this exercise, ensure you have the following tools and resources
 - The suggestions provided by GitHub Copilot Chat are not exhaustive. Use your judgment and expertise to evaluate and implement them.
 - Consider your workplace's coding standards and policies when choosing which updates to implement.
 - Ensure thorough code reviews and testing to maintain high-quality code.
+- If GitHub Copilot suggests creating a new file, use the "insert into new file" option to have it create the file for you.
+
 
