@@ -33,7 +33,7 @@ Before starting this exercise, ensure you have the following tools and resources
 
 ### 3. Use GitHub Copilot Chat to Generate Suggestions
 1. Open the Chat view in `Ask` mode in Visual Studio Code.
-2. Attach the `BankAccount.cs` file to the Chat context.
+2. Check that the the `BankAccount.cs`  file is attached to the Chat context, if it is not then ensure you have it selected in the editor.
 3. Use the following prompt to generate suggestions:
    - "`@workspace` How can I improve authentication and data protection in the `BankAccount` class?"
 4. Review the suggestions provided by GitHub Copilot Chat.
@@ -44,7 +44,7 @@ Before starting this exercise, ensure you have the following tools and resources
 
 ### 4. Secure Exception Handling
 1. Open the Chat view in `Ask` mode in Visual Studio Code.
-2. Attach the `Program.cs` file to the Chat context.
+2. Check that the the `Program.cs`   file is attached to the Chat context, if it is not then ensure you have it selected in the editor.
 3. Use the following prompt to generate suggestions:
    - "`@workspace` How can I implement secure exception handling in the `Program.cs` file?"
 4. Review the suggestions provided by GitHub Copilot Chat.
@@ -69,3 +69,5 @@ Before starting this exercise, ensure you have the following tools and resources
 - The suggestions provided by GitHub Copilot Chat are not exhaustive. Use your judgment and expertise to evaluate and implement them.
 - Consider your workplace's coding standards and policies when choosing which updates to implement.
 - Ensure thorough code reviews and testing to maintain high-quality code.
+- If GitHub Copilot suggests creating a new file, use the "insert into new file" option to have it create the file for you.
+
