@@ -21,7 +21,7 @@ This project extends the BankAccount application with a focus on security. It de
 [Read more about APL2007M5BankAccount-Security](APL2007M5BankAccount-Security/docs/README.md)
 
 ## Getting Started
-1. Clone this repository to your local machine.
+1. Fork this repo in your GitHub account and clone it to your local machine.
 2. Navigate to the project directory for the exercise you want to work on.
 3. Follow the instructions in the respective `README.md` file to set up and complete the exercise.
 
